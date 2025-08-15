@@ -47,16 +47,7 @@ pip install tweepy pandas numpy matplotlib seaborn
 
 4. **Jalankan setiap sel di notebook** untuk memulai scraping.
 
-## ⚠️ Catatan Penting
-
-* Pastikan penggunaan API Twitter sesuai dengan [Kebijakan Developer Twitter](https://developer.twitter.com/en/developer-terms/agreement-and-policy).
-* Data yang diambil hanya untuk keperluan **penelitian dan edukasi**, bukan untuk tujuan komersial atau melanggar privasi pengguna.
-
 ## 📄 Lisensi
 
 Proyek ini dirilis di bawah lisensi **MIT** – bebas digunakan, dimodifikasi, dan dibagikan dengan tetap mencantumkan kredit.
 
----
-
-Kalau mau, aku bisa tambahkan **contoh output data dan grafik analisis** supaya README ini terlihat lebih profesional dan menarik perhatian orang yang melihat repo-mu.
-Apakah mau sekalian aku tambahkan bagian itu?
