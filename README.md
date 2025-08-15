@@ -1,1 +1,62 @@
-# Scrapping-film-merah-putih-one-for-all-twitter
+# 🎬 Scrapping Film Merah Putih: One for All – Twitter
+
+Proyek ini bertujuan untuk melakukan **web scraping** komentar publik di **Twitter** terkait film *Merah Putih: One for All*. Data yang dikumpulkan dapat digunakan untuk **analisis sentimen**, **riset opini publik**, atau **monitoring tren diskusi** di media sosial.
+
+## 📌 Tujuan Proyek
+
+* Mengumpulkan komentar dari Twitter terkait film *Merah Putih: One for All*.
+* Membersihkan dan menyimpan data agar siap digunakan untuk analisis lebih lanjut.
+* Mendukung riset atau pembuatan laporan terkait penerimaan publik terhadap film.
+
+## 🛠️ Teknologi yang Digunakan
+
+* **Python**
+* **Jupyter Notebook (Google Colab)**
+* **Tweepy** – untuk mengakses API Twitter
+* **Pandas** – untuk pengolahan data
+* **NumPy** – untuk manipulasi data
+* **Matplotlib / Seaborn** – untuk visualisasi data
+
+## 📂 Struktur Repository
+
+```
+📦 Scrapping-film-merah-putih-one-for-all-twitter
+ ┣ 📜 README.md                # Dokumentasi proyek
+ ┣ 📓 Scrapping_Film_Merah_Putih_Twitter.ipynb  # Script utama scraping
+```
+
+## 🚀 Cara Menjalankan Proyek
+
+1. **Clone repository ini**
+
+```bash
+git clone https://github.com/Hafizh-Al-Muzakar/Scrapping-film-merah-putih-one-for-all-twitter.git
+cd Scrapping-film-merah-putih-one-for-all-twitter
+```
+
+2. **Buka Jupyter Notebook / Google Colab**
+
+   * Jalankan file `Scrapping_Film_Merah_Putih_Twitter.ipynb`
+   * Pastikan kamu memiliki **Twitter API Key** dan **Access Token** yang valid.
+
+3. **Install dependensi** (jika belum)
+
+```bash
+pip install tweepy pandas numpy matplotlib seaborn
+```
+
+4. **Jalankan setiap sel di notebook** untuk memulai scraping.
+
+## ⚠️ Catatan Penting
+
+* Pastikan penggunaan API Twitter sesuai dengan [Kebijakan Developer Twitter](https://developer.twitter.com/en/developer-terms/agreement-and-policy).
+* Data yang diambil hanya untuk keperluan **penelitian dan edukasi**, bukan untuk tujuan komersial atau melanggar privasi pengguna.
+
+## 📄 Lisensi
+
+Proyek ini dirilis di bawah lisensi **MIT** – bebas digunakan, dimodifikasi, dan dibagikan dengan tetap mencantumkan kredit.
+
+---
+
+Kalau mau, aku bisa tambahkan **contoh output data dan grafik analisis** supaya README ini terlihat lebih profesional dan menarik perhatian orang yang melihat repo-mu.
+Apakah mau sekalian aku tambahkan bagian itu?
