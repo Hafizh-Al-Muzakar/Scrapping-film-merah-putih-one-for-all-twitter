@@ -17,14 +17,6 @@ Proyek ini bertujuan untuk melakukan **web scraping** komentar publik di **Twitt
 * **NumPy** – untuk manipulasi data
 * **Matplotlib / Seaborn** – untuk visualisasi data
 
-## 📂 Struktur Repository
-
-```
-📦 Scrapping-film-merah-putih-one-for-all-twitter
- ┣ 📜 README.md                # Dokumentasi proyek
- ┣ 📓 Scrapping_Film_Merah_Putih_Twitter.ipynb  # Script utama scraping
-```
-
 ## 🚀 Cara Menjalankan Proyek
 
 1. **Clone repository ini**
@@ -42,7 +34,7 @@ cd Scrapping-film-merah-putih-one-for-all-twitter
 3. **Install dependensi** (jika belum)
 
 ```bash
-pip install tweepy pandas numpy matplotlib seaborn
+pip install tweepy pandas numpy 
 ```
 
 4. **Jalankan setiap sel di notebook** untuk memulai scraping.
